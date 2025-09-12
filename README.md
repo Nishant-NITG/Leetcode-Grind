@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 ## String
