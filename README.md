@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0127-word-ladder) |
+| [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
 ## Graph
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0048-rotate-image) |
+| [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -103,4 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
