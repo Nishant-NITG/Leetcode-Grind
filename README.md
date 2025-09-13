@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
 | [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
