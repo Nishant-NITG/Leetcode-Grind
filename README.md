@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
@@ -88,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 ## Math
 |  |
