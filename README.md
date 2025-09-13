@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0127-word-ladder) |
 | [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Graph
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
