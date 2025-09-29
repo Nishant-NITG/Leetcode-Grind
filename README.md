@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -155,5 +159,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
