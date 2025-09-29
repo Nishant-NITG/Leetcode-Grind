@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0890-lemonade-change) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
