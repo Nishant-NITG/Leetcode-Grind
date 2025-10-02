@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
