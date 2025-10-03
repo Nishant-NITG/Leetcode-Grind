@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2032-largest-odd-number-in-string) |
