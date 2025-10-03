@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2032-largest-odd-number-in-string) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
@@ -209,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
