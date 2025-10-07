@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -232,9 +234,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
