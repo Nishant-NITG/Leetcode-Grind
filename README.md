@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0128-longest-consecutive-sequence) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
