@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0940-fruit-into-baskets) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -293,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
