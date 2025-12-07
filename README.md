@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0890-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0940-fruit-into-baskets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 ## Heap (Priority Queue)
