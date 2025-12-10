@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2032-largest-odd-number-in-string) |
@@ -334,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1392-longest-happy-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
