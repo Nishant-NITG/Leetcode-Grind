@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1922-count-good-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
