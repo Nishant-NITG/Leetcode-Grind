@@ -341,9 +341,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1922-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
