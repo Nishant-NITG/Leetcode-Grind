@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0056-merge-intervals) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0145-binary-tree-postorder-traversal) |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
