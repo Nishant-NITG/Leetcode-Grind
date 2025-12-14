@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0704-binary-search) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -398,4 +400,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
