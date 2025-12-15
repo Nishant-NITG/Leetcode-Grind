@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0686-repeated-string-match) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0735-asteroid-collision) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0907-sum-of-subarray-minimums) |
