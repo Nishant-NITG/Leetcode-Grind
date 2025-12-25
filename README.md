@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1922-count-good-numbers) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1922-count-good-numbers) |
 ## Linked List
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
 ## Binary Search Tree
 |  |
 | ------- |
