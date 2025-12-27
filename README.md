@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Binary Search Tree
 |  |
 | ------- |
