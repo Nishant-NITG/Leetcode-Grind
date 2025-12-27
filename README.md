@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0152-maximum-product-subarray) |
+| [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
@@ -547,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
