@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0088-merge-sorted-array) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
@@ -541,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
