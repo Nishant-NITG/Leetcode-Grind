@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0846-hand-of-straights) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0907-sum-of-subarray-minimums) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
