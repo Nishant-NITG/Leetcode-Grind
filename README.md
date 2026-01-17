@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1901-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
