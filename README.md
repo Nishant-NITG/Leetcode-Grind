@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0540-single-element-in-a-sorted-array) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -556,11 +558,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -632,4 +636,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
