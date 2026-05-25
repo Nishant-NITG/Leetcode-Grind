@@ -1,45 +1,76 @@
-#include <vector>
-#include <queue>
-using namespace std;
-
 class Solution {
 public:
-    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> adj[numCourses];        // adjacency list
-        vector<int> indeg(numCourses, 0);   // indegree of each course
-        queue<int> q;
 
-        // Build the graph
-        for (auto &p : prerequisites) {
-            int u = p[1];  // prerequisite
-            int v = p[0];  // course
-            adj[u].push_back(v);
-            indeg[v]++;
-        }
+    bool dfs(int node,
+             vector<vector<int>>& adj,
+             vector<int>& visited,
+             vector<int>& pathVisited)
+    {
+        // Mark visited
+        visited[node] = 1;
 
-        // Add all courses with indegree 0 to queue
-        for (int i = 0; i < numCourses; i++) {
-            if (indeg[i] == 0) {
-                q.push(i);
+        // Mark current DFS path
+        pathVisited[node] = 1;
+
+        // Traverse neighbors
+        for(auto neigh : adj[node])
+        {
+            // If neighbor unvisited
+            if(!visited[neigh])
+            {
+                if(dfs(neigh, adj, visited, pathVisited))
+                {
+                    return true;
+                }
+            }
+
+            // If already in current path
+            // cycle exists
+            else if(pathVisited[neigh])
+            {
+                return true;
             }
         }
 
-        int count = 0;
+        // Remove from current path
+        pathVisited[node] = 0;
 
-        // Process courses
-        while (!q.empty()) {
-            int node = q.front();
-            q.pop();
-            count++;
+        return false;
+    }
 
-            for (int neigh : adj[node]) {
-                indeg[neigh]--;      // decrement neighbor indegree
-                if (indeg[neigh] == 0)
-                    q.push(neigh);
+    bool canFinish(int numCourses,
+                   vector<vector<int>>& prerequisites)
+    {
+        // Adjacency list
+        vector<vector<int>> adj(numCourses);
+
+        // Build graph
+        for(auto edge : prerequisites)
+        {
+            int course = edge[0];
+            int prereq = edge[1];
+
+            adj[prereq].push_back(course);
+        }
+
+        // Visited array
+        vector<int> visited(numCourses, 0);
+
+        // DFS path array
+        vector<int> pathVisited(numCourses, 0);
+
+        // Check all components
+        for(int i = 0; i < numCourses; i++)
+        {
+            if(!visited[i])
+            {
+                if(dfs(i, adj, visited, pathVisited))
+                {
+                    return false;
+                }
             }
         }
 
-        // If all courses can be processed, no cycle exists
-        return (count == numCourses);
+        return true;
     }
 };
