@@ -660,4 +660,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
