@@ -1,58 +1,84 @@
-#include <vector>
-#include <queue>
-using namespace std;
-
 class Solution {
 public:
+
+    void dfs(int r, int c, vector<vector<char>>& board,
+             int m, int n) {
+
+        // Mark current safe 'O' as visited
+        // We use '#' temporarily so we know:
+        // "This O should NOT be converted to X"
+        board[r][c] = '#';
+
+        vector<int> dr = {-1, 0, 1, 0};
+        vector<int> dc = {0, 1, 0, -1};
+
+        // Explore all 4 directions
+        for(int k = 0; k < 4; k++) {
+
+            int nr = r + dr[k];
+            int nc = c + dc[k];
+
+            // Check boundaries
+            // Also continue DFS only on unvisited 'O'
+            if(nr >= 0 && nr < m &&
+               nc >= 0 && nc < n &&
+               board[nr][nc] == 'O') {
+
+                dfs(nr, nc, board, m, n);
+            }
+        }
+    }
+
     void solve(vector<vector<char>>& board) {
+
         int m = board.size();
-        if (m == 0) return;
         int n = board[0].size();
 
-        vector<int> dirX = {0, 0, 1, -1};
-        vector<int> dirY = {1, -1, 0, 0};
-        queue<pair<int, int>> q;
+        // STEP 1:
+        // Traverse boundary cells
+        // Because ONLY boundary-connected O's are safe
+        for(int i = 0; i < m; i++) {
 
-        for (int i = 0; i < m; i++) {
-            if (board[i][0] == 'O') {
-                q.push({i, 0});
-                board[i][0] = '#';
+            // Left boundary
+            if(board[i][0] == 'O') {
+                dfs(i, 0, board, m, n);
             }
-            if (board[i][n - 1] == 'O') {
-                q.push({i, n - 1});
-                board[i][n - 1] = '#';
-            }
-        }
-        for (int j = 0; j < n; j++) {
-            if (board[0][j] == 'O') {
-                q.push({0, j});
-                board[0][j] = '#';
-            }
-            if (board[m - 1][j] == 'O') {
-                q.push({m - 1, j});
-                board[m - 1][j] = '#';
+
+            // Right boundary
+            if(board[i][n - 1] == 'O') {
+                dfs(i, n - 1, board, m, n);
             }
         }
 
-        while (!q.empty()) {
-            auto [x, y] = q.front();
-            q.pop();
+        for(int j = 0; j < n; j++) {
 
-            for (int d = 0; d < 4; d++) {
-                int newX = x + dirX[d];
-                int newY = y + dirY[d];
+            // Top boundary
+            if(board[0][j] == 'O') {
+                dfs(0, j, board, m, n);
+            }
 
-                if (newX >= 0 && newX < m && newY >= 0 && newY < n && board[newX][newY] == 'O') {
-                    board[newX][newY] = '#';
-                    q.push({newX, newY});
+            // Bottom boundary
+            if(board[m - 1][j] == 'O') {
+                dfs(m - 1, j, board, m, n);
+            }
+        }
+
+        // STEP 2:
+        // Now process entire board
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+
+                // Remaining O's are surrounded
+                // because DFS never reached them
+                if(board[i][j] == 'O') {
+                    board[i][j] = 'X';
                 }
-            }
-        }
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O') board[i][j] = 'X';
-                else if (board[i][j] == '#') board[i][j] = 'O';
+                // Safe cells marked as '#'
+                // convert them back to O
+                else if(board[i][j] == '#') {
+                    board[i][j] = 'O';
+                }
             }
         }
     }
