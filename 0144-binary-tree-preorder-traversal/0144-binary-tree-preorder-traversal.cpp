@@ -1,15 +1,16 @@
 class Solution {
 public:
-    void traverse(TreeNode* root, vector<int>& ans) {
-        if (!root) return;                
-        ans.push_back(root->val);          
-        traverse(root->left, ans);         
-        traverse(root->right, ans);        
+    void preorder(TreeNode* root, vector<int>& ans) {
+        if (root == nullptr) return;
+
+        ans.push_back(root->val);   // Root
+        preorder(root->left, ans);  // Left
+        preorder(root->right, ans); // Right
     }
 
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
-        traverse(root, ans);
+        preorder(root, ans);
         return ans;
     }
 };
