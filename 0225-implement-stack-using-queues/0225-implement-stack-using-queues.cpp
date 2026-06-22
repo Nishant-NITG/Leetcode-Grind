@@ -1,40 +1,40 @@
-#include <queue>
-using namespace std;
-
 class MyStack {
-    queue<int> q1;
-    queue<int> q2;
+
+    queue<int> q;
 
 public:
+
     MyStack() {
+
     }
 
     void push(int x) {
 
-        q2.push(x);
+        int n = q.size();
 
-        while(!q1.empty()){
-            q2.push(q1.front());
-            q1.pop();
+        q.push(x);
+
+        for(int i = 0; i < n; i++) {
+            q.push(q.front());
+            q.pop();
         }
-
-        swap(q1, q2);
     }
 
     int pop() {
 
-        int val = q1.front();
-        q1.pop();
+        int val = q.front();
+        q.pop();
+
         return val;
     }
 
     int top() {
 
-        return q1.front();
+        return q.front();
     }
 
     bool empty() {
 
-        return q1.empty();
+        return q.empty();
     }
 };
