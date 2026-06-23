@@ -1,21 +1,25 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        vector<bool>count(256,0);
-        int first=0, second=0, len=0;
-        while(second<s.size())
-        {
-            while(count[s[second]])
-            {
-                count[s[first]]=0;
-                first++;
-                
-            }
-            count[s[second]]=1;
-            len=max(len,second-first+1);
-            second++;
+        unordered_map<char,int>last_seen;
 
+        int left=0;
+        int max_len=0;
+
+        for(int right=0;right<s.length();right++)
+        {
+            char current_char=s[right];
+
+            if(last_seen.find(current_char)!=last_seen.end())
+            {
+                left=max(left,last_seen[current_char]+1);
+            }
+            last_seen[current_char]=right;
+
+            int current_window_length=right-left+1;
+            max_len=max(max_len,current_window_length);
         }
-        return len;
+
+        return max_len;
     }
 };
