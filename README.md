@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0966-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2032-largest-odd-number-in-string) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 ## Brainteaser
 |  |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1046-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 ## Rolling Hash
 |  |
