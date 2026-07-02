@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0812-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1392-longest-happy-prefix) |
 ## Bucket Sort
