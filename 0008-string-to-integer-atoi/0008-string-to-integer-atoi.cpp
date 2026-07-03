@@ -2,28 +2,34 @@ class Solution {
 public:
     int myAtoi(string s) {
         int i=0;
-        int n=s.size();
-
-        while(i<n && s[i]==' ') i++;
-
+        int n=s.length();
         int sign=1;
+        int result=0;
+
+        while(i<n && s[i]==' ')
+        {
+            i++;
+        }
+
+        //handle optional sign
         if(i<n && (s[i]=='+' || s[i]=='-'))
         {
-            if(s[i]=='-') sign=-1;
+            sign=(s[i]=='-')?-1:1;
             i++;
         }
 
-        long long num=0;
-        while (i < n && isdigit(s[i])) {
-            num = num * 10 + (s[i] - '0');
+        while(i<n && isdigit(s[i]))
+        {
+            int digit=s[i]-'0';
 
-            // 4. Clamp on overflow
-            if (sign == 1 && num > INT_MAX) return INT_MAX;
-            if (sign == -1 && -num < INT_MIN) return INT_MIN;
+            if(result>INT_MAX/10 || (result==INT_MAX/10 && digit>INT_MAX%10))
+            {
+                return sign==1?INT_MAX:INT_MIN;
+            }
 
+            result=result*10+digit;
             i++;
         }
-
-        return sign * num;
+        return sign*result;
     }
 };
