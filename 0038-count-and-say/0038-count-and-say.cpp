@@ -1,21 +1,38 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        if (n == 1) return "1";
+        if(n==1) return "1";
 
-        string s = countAndSay(n - 1);
-        string result = "";
-        int count = 1;
+        string current="1";
+        for(int i=2;i<=n;i++)
+        {
+            current=rle(current);
+        }
+        return current;
+    }
 
-        for (int i = 1; i <= s.size(); i++) {
-            if (i < s.size() && s[i] == s[i - 1]) {
+
+    private:
+
+    string rle(const string& s)
+    {
+        string result="";
+        int i=0;
+        int n=s.length();
+
+        while(i<n)
+        {
+            char currentChar=s[i];
+            int count=0;
+
+            while(i<n && s[i]==currentChar)
+            {
                 count++;
-            } else {
-                result += to_string(count);
-                result += s[i - 1];
-                count = 1;
+                i++;
             }
+            result+=to_string(count)+currentChar;
         }
         return result;
+        
     }
 };
