@@ -1,35 +1,57 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int i=0;
-        int n=s.length();
-        int sign=1;
-        int result=0;
-
-        while(i<n && s[i]==' ')
-        {
-            i++;
+        // The recursive helper carries all state forward
+        return helper(s, 0, 0, 1, false);
+    }
+    
+private:
+    int helper(string& s, int i, long long result, int sign, bool started) {
+        // BASE CASE 1: Reached end of string
+        if (i >= s.length()) {
+            return sign * result;
         }
-
-        //handle optional sign
-        if(i<n && (s[i]=='+' || s[i]=='-'))
-        {
-            sign=(s[i]=='-')?-1:1;
-            i++;
+        
+        char c = s[i];
+        
+        // BASE CASE 2: Started reading digits and hit non-digit
+        // The number stops here - this is the termination condition
+        if (started && !isdigit(c)) {
+            return sign * result;
         }
-
-        while(i<n && isdigit(s[i]))
-        {
-            int digit=s[i]-'0';
-
-            if(result>INT_MAX/10 || (result==INT_MAX/10 && digit>INT_MAX%10))
-            {
-                return sign==1?INT_MAX:INT_MIN;
+        
+        // Handle sign characters (ONLY before any digits)
+        if (!started && (c == '+' || c == '-')) {
+            sign = (c == '-') ? -1 : 1;
+            // Mark as started to prevent another sign later
+            return helper(s, i + 1, result, sign, true);
+        }
+        
+        // Handle digit characters
+        if (isdigit(c)) {
+            int digit = c - '0';
+            
+            // Overflow check: result > INT_MAX/10 means multiplying by 10
+            // will overflow regardless of digit
+            if (result > INT_MAX / 10 || 
+                (result == INT_MAX / 10 && digit > 7)) {
+                return sign == 1 ? INT_MAX : INT_MIN;
             }
-
-            result=result*10+digit;
-            i++;
+            
+            // The recurrence: build number from left to right
+            result = result * 10 + digit;
+            
+            // Mark as started and continue
+            return helper(s, i + 1, result, sign, true);
         }
-        return sign*result;
+        
+        // Handle whitespace (ONLY before any digits)
+        if (!started && c == ' ') {
+            return helper(s, i + 1, result, sign, false);
+        }
+        
+        // Any other character: if not started, this is invalid
+        // If started, we would have hit the base case above
+        return 0;
     }
 };
