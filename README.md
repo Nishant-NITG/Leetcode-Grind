@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0258-add-digits) |
@@ -736,4 +738,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1631-path-with-minimum-effort) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
