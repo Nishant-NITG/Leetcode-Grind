@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0215-kth-largest-element-in-an-array) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
