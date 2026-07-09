@@ -1,27 +1,34 @@
 class Solution {
+private:
+    int solve(int i, int j, vector<vector<int>>& grid, 
+              vector<vector<int>>& memo) {
+        // Base case: reached start
+        if (i == 0 && j == 0) {
+            return grid[0][0];
+        }
+        
+        // Out of bounds
+        if (i < 0 || j < 0) {
+            return INT_MAX;
+        }
+        
+        // If already computed
+        if (memo[i][j] != -1) {
+            return memo[i][j];
+        }
+        
+        // Minimum cost = current + min(from above, from left)
+        return memo[i][j] = grid[i][j] + 
+                            min(solve(i-1, j, grid, memo),
+                                solve(i, j-1, grid, memo));
+    }
+    
 public:
     int minPathSum(vector<vector<int>>& grid) {
+        int m = grid.size();
+        int n = grid[0].size();
         
-        int m=grid.size();
-        int n=grid[0].size();
-
-        vector<int>dp(n,0);
-//first row fill
-        dp[0]=grid[0][0];
-        for(int j=1;j<n;j++)
-        {
-            dp[j]=dp[j-1]+grid[0][j];
-        }
-
-        for(int i=1;i<m;i++)
-        {
-            dp[0]=dp[0]+grid[i][0];
-
-            for(int j=1;j<n;j++)
-            {
-                dp[j]=grid[i][j]+min(dp[j],dp[j-1]);
-            }
-        }
-        return dp[n-1];
+        vector<vector<int>> memo(m, vector<int>(n, -1));
+        return solve(m-1, n-1, grid, memo);
     }
 };
