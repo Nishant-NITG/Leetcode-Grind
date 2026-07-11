@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
@@ -641,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
