@@ -1,19 +1,24 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int> pos, neg;
+        int n = nums.size();
+        vector<int> result(n);
         
-        // Separate positive and negative numbers while preserving order
+        // Positive numbers go to even indices (0, 2, 4, ...)
+        // Negative numbers go to odd indices (1, 3, 5, ...)
+        int posIndex = 0;
+        int negIndex = 1;
+        
         for (int num : nums) {
-            if (num > 0) pos.push_back(num);
-            else neg.push_back(num);
-        }
-        
-        // Interleave: positive first, then negative, alternating
-        vector<int> result;
-        for (int i = 0; i < pos.size(); i++) {
-            result.push_back(pos[i]);
-            result.push_back(neg[i]);
+            if (num > 0) {
+                // Place positive at next even index
+                result[posIndex] = num;
+                posIndex += 2;
+            } else {
+                // Place negative at next odd index
+                result[negIndex] = num;
+                negIndex += 2;
+            }
         }
         
         return result;
