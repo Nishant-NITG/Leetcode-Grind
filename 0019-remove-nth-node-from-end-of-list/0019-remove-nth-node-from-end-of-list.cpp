@@ -1,47 +1,33 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-         int count = 0;
-        ListNode* temp = head;
+        // Create a dummy node before the head
+        // This simplifies the case when we need to remove the head itself
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
         
-        // Count the number of nodes
-        while (temp != NULL) {
-            count++;
-            temp = temp->next;
+        // Initialize two pointers at dummy
+        ListNode* slow = dummy;
+        ListNode* fast = dummy;
+        
+        // Move fast n steps ahead
+        // Creates a gap of n between slow and fast
+        for (int i = 0; i < n; i++) {
+            fast = fast->next;
         }
         
-        count = count - n;
-        
-        // If removing the first node
-        if (count == 0) {
-            ListNode* newHead = head->next;
-            delete head;
-            return newHead;
+        // Move both pointers until fast reaches the last node
+        // When fast->next is NULL, slow is at the node before the target
+        while (fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next;
         }
         
-        ListNode* curr = head;
-        ListNode* prev = NULL;
-
-        while (count--) {
-            prev = curr;
-            curr = curr->next;
-        }
-
-        prev->next = curr->next;
-        delete curr;
-
-        return head; 
-
-    
-}
+        // Remove the nth node from the end
+        // slow->next is the target node
+        slow->next = slow->next->next;
+        
+        // Return the new head (skip dummy)
+        return dummy->next;
+    }
 };
