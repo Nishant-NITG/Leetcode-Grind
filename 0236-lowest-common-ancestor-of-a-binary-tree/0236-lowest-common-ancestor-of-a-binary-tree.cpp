@@ -1,39 +1,22 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
- * };
- */
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-
-        if (root == NULL) {
-            return NULL;
-        }
-
-        if (root == p) {
+        // Base case: reached end or found one of the nodes
+        if (!root || root == p || root == q) {
             return root;
         }
-
-        if (root == q) {
-            return root;
-        }
-
-        TreeNode* left  = lowestCommonAncestor(root->left,  p, q);
+        
+        // Search in left and right subtrees
+        TreeNode* left = lowestCommonAncestor(root->left, p, q);
         TreeNode* right = lowestCommonAncestor(root->right, p, q);
-
-        if (left != NULL && right != NULL) {
+        
+        // If both left and right found nodes, current root is the LCA
+        if (left && right) {
             return root;
         }
-
-        if (left != NULL) {
-            return left;
-        } else {
-            return right;
-        }
+        
+        // Otherwise, return the non-null side
+        // If both null, returns null
+        return left ? left : right;
     }
 };
