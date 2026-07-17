@@ -1,76 +1,49 @@
 class Solution {
 public:
-
-    bool dfs(int node,
-             vector<vector<int>>& adj,
-             vector<int>& visited,
-             vector<int>& pathVisited)
-    {
-        // Mark visited
-        visited[node] = 1;
-
-        // Mark current DFS path
-        pathVisited[node] = 1;
-
-        // Traverse neighbors
-        for(auto neigh : adj[node])
-        {
-            // If neighbor unvisited
-            if(!visited[neigh])
-            {
-                if(dfs(neigh, adj, visited, pathVisited))
-                {
-                    return true;
-                }
-            }
-
-            // If already in current path
-            // cycle exists
-            else if(pathVisited[neigh])
-            {
-                return true;
-            }
-        }
-
-        // Remove from current path
-        pathVisited[node] = 0;
-
-        return false;
-    }
-
-    bool canFinish(int numCourses,
-                   vector<vector<int>>& prerequisites)
-    {
-        // Adjacency list
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        // Build adjacency list and calculate in-degrees
+        // adj[prereq] = list of courses that depend on prereq
         vector<vector<int>> adj(numCourses);
-
-        // Build graph
-        for(auto edge : prerequisites)
-        {
-            int course = edge[0];
-            int prereq = edge[1];
-
+        vector<int> inDegree(numCourses, 0);
+        
+        for (auto& pre : prerequisites) {
+            int course = pre[0];     // Course we want to take
+            int prereq = pre[1];     // Course required first
             adj[prereq].push_back(course);
+            inDegree[course]++;      // This course has one more prerequisite
         }
-
-        // Visited array
-        vector<int> visited(numCourses, 0);
-
-        // DFS path array
-        vector<int> pathVisited(numCourses, 0);
-
-        // Check all components
-        for(int i = 0; i < numCourses; i++)
-        {
-            if(!visited[i])
-            {
-                if(dfs(i, adj, visited, pathVisited))
-                {
-                    return false;
+        
+        // Find all courses with no prerequisites (in-degree = 0)
+        // These are our starting points
+        queue<int> q;
+        for (int i = 0; i < numCourses; i++) {
+            if (inDegree[i] == 0) {
+                q.push(i);
+            }
+        }
+        
+        int taken = 0;
+        
+        // Kahn's Algorithm: Repeatedly take courses with no prerequisites
+        while (!q.empty()) {
+            int course = q.front();
+            q.pop();
+            taken++;
+            
+            // By taking this course, we remove one prerequisite
+            // from all courses that depend on it
+            for (int next : adj[course]) {
+                inDegree[next]--;
+                
+                // If this course now has no prerequisites,
+                // it's ready to be taken
+                if (inDegree[next] == 0) {
+                    q.push(next);
                 }
             }
         }
-
-        return true;
+        
+        // If we couldn't take all courses, there's a cycle
+        return taken == numCourses;
     }
 };
