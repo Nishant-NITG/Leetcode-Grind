@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
@@ -774,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0785-is-graph-bipartite) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1631-path-with-minimum-effort) |
 ## Memoization
