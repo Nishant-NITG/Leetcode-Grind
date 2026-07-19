@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0820-find-eventual-safe-states) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0820-find-eventual-safe-states) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0583-delete-operation-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1092-shortest-common-supersequence) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0744-network-delay-time](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0744-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -778,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
