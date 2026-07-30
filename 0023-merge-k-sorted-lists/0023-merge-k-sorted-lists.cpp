@@ -1,38 +1,54 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
+
+// Comparator class for Min Heap
+class Compare {
+public:
+    bool operator()(ListNode* a, ListNode* b) {
+        return a->val > b->val;
+    }
+};
+
 class Solution {
 public:
-
-    struct cmp {
-        bool operator()(ListNode* a, ListNode* b) {
-            return a->val > b->val;   // min heap
-        }
-    };
-
     ListNode* mergeKLists(vector<ListNode*>& lists) {
 
-        priority_queue<
-            ListNode*,
-            vector<ListNode*>,
-            cmp
-        > pq;
+        // Min Heap
+        priority_queue<ListNode*, vector<ListNode*>, Compare> pq;
 
-        for(auto node : lists) {
-            if(node)
-                pq.push(node);
+        // Put the first node of every list into the heap
+        for (ListNode* head : lists) {
+            if (head != nullptr) {
+                pq.push(head);
+            }
         }
 
+        // Dummy node
         ListNode dummy(0);
         ListNode* tail = &dummy;
 
-        while(!pq.empty()) {
+        while (!pq.empty()) {
 
-            ListNode* curr = pq.top();
+            // Get the smallest node
+            ListNode* smallest = pq.top();
             pq.pop();
 
-            tail->next = curr;
+            // Add it to the answer
+            tail->next = smallest;
             tail = tail->next;
 
-            if(curr->next)
-                pq.push(curr->next);
+            // Push the next node of the same list
+            if (smallest->next != nullptr) {
+                pq.push(smallest->next);
+            }
         }
 
         return dummy.next;
