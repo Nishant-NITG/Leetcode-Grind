@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0812-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1092-shortest-common-supersequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2104-sum-of-subarray-ranges) |
@@ -810,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
