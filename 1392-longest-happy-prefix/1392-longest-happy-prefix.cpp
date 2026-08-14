@@ -1,43 +1,30 @@
 class Solution {
 public:
-    vector<int> buildlps(const string &pat)
-    {
-        int n = pat.size();
+    string longestPrefix(string s) {
+        int n = s.length();
         vector<int> lps(n, 0);
-        int pre = 0;
-        int suf = 1;
-
-        while (suf < n)
-        {
-            if (pat[pre] == pat[suf])
-            {
-                pre++;
-                lps[suf] = pre;
-                suf++;
-            }
-            else
-            {
-                if (pre != 0)
-                {
-                    pre = lps[pre - 1];
-                }
-                else
-                {
-                    lps[suf] = 0;
-                    suf++;
+        
+        // Build LPS array
+        int len = 0;  // Length of previous longest prefix suffix
+        int i = 1;
+        
+        while (i < n) {
+            if (s[i] == s[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
                 }
             }
         }
-        return lps;
-    }
-
-
-
-    string longestPrefix(string s) {
-        vector<int> lps = buildlps(s);
-
-        int longestPreSuf = lps.back();
-
-        return (longestPreSuf!=0)? s.substr(0,longestPreSuf):"";
+        
+        // Last value is the length of longest happy prefix
+        int happyLen = lps[n - 1];
+        return s.substr(0, happyLen);
     }
 };
