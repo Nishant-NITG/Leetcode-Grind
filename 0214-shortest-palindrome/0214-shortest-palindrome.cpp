@@ -1,51 +1,40 @@
 class Solution {
 public:
-
-    vector<int> buildlps(const string &pat)
-    {
-        int n = pat.size();
+    string shortestPalindrome(string s) {
+        string rev = s;
+        reverse(rev.begin(), rev.end());
+        
+        // Create string: s + "#" + rev
+        string t = s + "#" + rev;
+        int n = t.length();
+        
+        // Build LPS array
         vector<int> lps(n, 0);
-        int pre = 0;
-        int suf = 1;
-
-        while (suf < n)
-        {
-            if (pat[pre] == pat[suf])
-            {
-                pre++;
-                lps[suf] = pre;
-                suf++;
-            }
-            else
-            {
-                if (pre != 0)
-                {
-                    pre = lps[pre - 1];
-                }
-                else
-                {
-                    lps[suf] = 0;
-                    suf++;
+        int len = 0;
+        int i = 1;
+        
+        while (i < n) {
+            if (t[i] == t[len]) {
+                len++;
+                lps[i] = len;
+                i++;
+            } else {
+                if (len != 0) {
+                    len = lps[len - 1];
+                } else {
+                    lps[i] = 0;
+                    i++;
                 }
             }
         }
-        return lps;
-    }
-
-    string shortestPalindrome(string s) {
-
-        string rev = string(s.rbegin(), s.rend());
-
-        string t = s + "#" + rev;     // FIXED: don't use keyword 'new'
-
-        vector<int> lps = buildlps(t);
-
-        int longestPrefixPal = lps.back();
-
-        string suffix = s.substr(longestPrefixPal);
-
+        
+        // Longest palindromic prefix length
+        int palLen = lps[n - 1];
+        
+        // Add reverse of remaining part to front
+        string suffix = s.substr(palLen);
         reverse(suffix.begin(), suffix.end());
-
+        
         return suffix + s;
     }
 };
