@@ -819,4 +819,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1021-remove-outermost-parentheses) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
