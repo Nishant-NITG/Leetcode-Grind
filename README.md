@@ -841,4 +841,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0214-shortest-palindrome) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
