@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0994-rotting-oranges) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0621-task-scheduler) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0540-single-element-in-a-sorted-array) |
@@ -492,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0703-kth-largest-element-in-a-stream) |
