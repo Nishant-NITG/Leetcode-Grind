@@ -1,34 +1,46 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        reverse(s.begin(),s.end());
 
-        int n=s.length();
-        int left=0;
-        int right=0;
-        int i=0;
+        // 1. Remove extra spaces in-place
+        int write = 0;
+        int n = s.size();
 
-        while(i<n)
-        {
-            while(i<n && s[i]==' ')
-            {
-                i++;
+        for (int read = 0; read < n; ) {
+
+            // Skip spaces
+            while (read < n && s[read] == ' ')
+                read++;
+
+            if (read >= n)
+                break;
+
+            // Add one space before every word except the first
+            if (write > 0)
+                s[write++] = ' ';
+
+            // Copy the word
+            while (read < n && s[read] != ' ') {
+                s[write++] = s[read++];
             }
-
-            if(i>=n) break;
-
-            while(i<n && s[i]!=' ')
-            {
-                s[left++]=s[i++];
-            }
-
-            reverse(s.begin()+right,s.begin()+left);
-
-            s[left++]=' ';
-            right=left;
         }
-        s.resize(left-1);
+
+        // Remove unused characters
+        s.resize(write);
+
+        // 2. Reverse entire string
+        reverse(s.begin(), s.end());
+
+        // 3. Reverse each word
+        int start = 0;
+
+        for (int i = 0; i <= s.size(); i++) {
+            if (i == s.size() || s[i] == ' ') {
+                reverse(s.begin() + start, s.begin() + i);
+                start = i + 1;
+            }
+        }
+
         return s;
-        
     }
 };
