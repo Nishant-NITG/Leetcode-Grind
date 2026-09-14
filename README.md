@@ -902,4 +902,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1907-count-salary-categories](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
