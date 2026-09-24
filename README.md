@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1631-path-with-minimum-effort) |
 | [1753-path-with-minimum-effort](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1753-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1901-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1370-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2965-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/1922-count-good-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2032-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/2965-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/3462-vowels-game-in-a-string) |
 ## Simulation
 |  |
