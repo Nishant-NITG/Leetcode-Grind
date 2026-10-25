@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0496-next-greater-element-i) |
