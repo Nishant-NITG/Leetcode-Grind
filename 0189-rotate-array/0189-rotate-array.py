@@ -4,11 +4,9 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n=len(nums)
-        if n==0:
-            return
+        k=k%n
 
-        k%=n
-
-        nums[:]=nums[::-1]
-        nums[:k]=nums[:k][::-1]
-        nums[k:]=nums[k:][::-1]
+        nums.reverse()
+        nums[:k]=reversed(nums[:k])
+        nums[k:]=reversed(nums[k:])
+        
