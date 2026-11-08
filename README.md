@@ -918,4 +918,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0229-majority-element-ii) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Nishant-NITG/Leetcode-Grind/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
